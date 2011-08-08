@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.0'
-gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
+gem 'rails', '3.0.9'
+gem 'sqlite3-ruby', '1.3.3', :require => 'sqlite3'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
